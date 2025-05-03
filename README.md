@@ -1,1 +1,2 @@
-Hey, if you need to find the latest Robogator desktop app or older updates, you can easily download it right here
+Visit releases.robogator.io for more details and to directly download all available official Robogator releases.
+This page is only used as a binary distribution hub.
